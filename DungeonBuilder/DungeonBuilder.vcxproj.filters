@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Floor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignTile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignTileDerivedClasses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TileSelectionController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrapTileDerivedClasses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterTile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrapTile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterTileDerivedClasses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FloorSelection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BiomeSelection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Floor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignTile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignTileDerivedClasses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TileSelectionController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrapTileDerivedClasses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterTileDerivedClasses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrapTile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterTile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FloorSelection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BiomeSelection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DungeonBuilder.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Chest.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Exit.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Goblins.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Ground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Mana.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Ogre.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Orc.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Path.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Pitfall.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SpikeTrap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Tripwire.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Entrance.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="redX.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Door.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="WorldMap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="exclamationPoint.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="DesertBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ForestBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="MountainBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CavernBackgroundBlue.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CavernBackgroundYellow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="LoadBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SaveBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

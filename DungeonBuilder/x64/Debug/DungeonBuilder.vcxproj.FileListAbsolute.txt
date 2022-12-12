@@ -1,0 +1,7 @@
+F:\School\DungeonBuilder\DungeonBuilder\x64\Debug\DungeonBuilder.vcxproj.AssemblyReference.cache
+F:\School\DungeonBuilder\DungeonBuilder\x64\Debug\DungeonBuilder.GameWindow.resources
+F:\School\DungeonBuilder\DungeonBuilder\x64\Debug\DungeonBuilder.vcxproj.GenerateResource.cache
+E:\School\DungeonBuilder\DungeonBuilder\x64\Debug\DungeonBuilder.vcxproj.AssemblyReference.cache
+E:\School\DungeonBuilder\DungeonBuilder\x64\Debug\DungeonBuilder.vcxproj.SuggestedBindingRedirects.cache
+E:\School\DungeonBuilder\DungeonBuilder\x64\Debug\DungeonBuilder.GameWindow.resources
+E:\School\DungeonBuilder\DungeonBuilder\x64\Debug\DungeonBuilder.vcxproj.GenerateResource.cache

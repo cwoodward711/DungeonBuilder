@@ -1,0 +1,21 @@
+﻿  BiomeSelection.cpp
+  DesignTile.cpp
+  DesignTileDerivedClasses.cpp
+  Floor.cpp
+  FloorSelection.cpp
+  GameController.cpp
+  GameWindow.cpp
+  LoadGame.cpp
+  SaveGame.cpp
+E:\School\DungeonBuilder\DungeonBuilder\SaveGame.cpp(8,13): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MonsterTile.cpp
+  MonsterTileDerivedClasses.cpp
+  Tile.cpp
+  TileSelectionController.cpp
+  TrapTile.cpp
+  TrapTileDerivedClasses.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+E:\School\DungeonBuilder\DungeonBuilder\BiomeSelection.cpp(27): warning C4715: 'BiomeSelection::loadBiome': not all control paths return a value
+  BiomeSelection.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DungeonBuilder.vcxproj -> E:\School\DungeonBuilder\x64\Debug\DungeonBuilder.exe

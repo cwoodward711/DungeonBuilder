@@ -1,0 +1,97 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "Chest.bmp"
+
+IDB_BITMAP2             BITMAP                  "Exit.bmp"
+
+IDB_BITMAP3             BITMAP                  "Goblins.bmp"
+
+IDB_BITMAP4             BITMAP                  "Ground.bmp"
+
+IDB_BITMAP5             BITMAP                  "Mana.bmp"
+
+IDB_BITMAP6             BITMAP                  "Ogre.bmp"
+
+IDB_BITMAP7             BITMAP                  "Orc.bmp"
+
+IDB_BITMAP8             BITMAP                  "Path.bmp"
+
+IDB_BITMAP9             BITMAP                  "Pitfall.bmp"
+
+IDB_BITMAP10            BITMAP                  "SpikeTrap.bmp"
+
+IDB_BITMAP11            BITMAP                  "Tripwire.bmp"
+
+IDB_BITMAP12            BITMAP                  "Entrance.bmp"
+
+IDB_BITMAP13            BITMAP                  "redX.bmp"
+
+IDB_BITMAP14            BITMAP                  "Door.bmp"
+
+IDB_BITMAP15            BITMAP                  "WorldMap.bmp"
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
